@@ -1,5 +1,6 @@
 # PDSND-Project-1 - Sakila DVD Rental Database - SQL
-# Date Created: November, 14 2019
+# Date Created: 
+* November, 14 2019
 # Introduction 
 The Sakila DVD Rental Database holds informintion about the compnay rents movies database for dates are all from 2005 and 2006, while the payment dates are all from 2007. For this porject we have queried the database to understand the different customer base and compare on payment earning and the store performance too.
 # Process Used
